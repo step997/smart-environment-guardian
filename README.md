@@ -112,11 +112,12 @@ smart-environment-guardian/
 
 ## 📸 演示截图
 
-[仪表盘](https://%E4%BB%AA%E8%A1%A8%E7%9B%98%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5)
+[仪表盘]
+<img width="1893" height="954" alt="仪表盘" src="https://github.com/user-attachments/assets/05543ba7-fae7-485f-96bc-34c99b46c160" />
 
-[Coze AI 助手](https://AI%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5)
 
-🔗 在线体验 AI 助手：https://www.coze.cn/store/agent/7635605366902145062
+[Coze AI 助手]
+<img width="662" height="441" alt="image" src="https://github.com/user-attachments/assets/472b6c2c-7e66-4b9d-8eeb-2c1707207dda" />
 
 ---
 
